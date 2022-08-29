@@ -1,0 +1,13 @@
+.slide-bg{
+     background-color: #fceae8;
+     border-radius: 15px;
+}
+.carousel-item{
+     padding: 20px 40px;
+}
+.buy-now{
+     background-image: linear-gradient(to bottom, green 0%, green 100%);
+}
+.container{
+     margin-bottom: 100px;
+}
